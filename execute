@@ -1,0 +1,3 @@
+cd /scripts/automate/monthly_invoice/crexendo/
+python3 email_template.py
+
